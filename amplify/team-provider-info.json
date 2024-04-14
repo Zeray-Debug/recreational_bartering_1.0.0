@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify0b377bcfdb7b4-staging-c2de0-authRole",
+      "UnauthRoleArn": "arn:aws:iam::751982554700:role/amplify-amplify0b377bcfdb7b4-staging-c2de0-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::751982554700:role/amplify-amplify0b377bcfdb7b4-staging-c2de0-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify0b377bcfdb7b4-staging-c2de0-deployment",
+      "UnauthRoleName": "amplify-amplify0b377bcfdb7b4-staging-c2de0-unauthRole",
+      "StackName": "amplify-amplify0b377bcfdb7b4-staging-c2de0",
+      "StackId": "arn:aws:cloudformation:us-east-2:751982554700:stack/amplify-amplify0b377bcfdb7b4-staging-c2de0/e780c320-fa05-11ee-b233-02e65e732185",
+      "AmplifyAppId": "d286mzahffeuvd"
+    },
+    "categories": {
+      "auth": {
+        "recreationalbarterinad113760": {}
+      }
+    }
+  }
+}
